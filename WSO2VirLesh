@@ -1,0 +1,5 @@
+listPullRequestCommits
+listPullRequestsFiles
+getMergeStatus
+mergePullRequest
+searchIssues
