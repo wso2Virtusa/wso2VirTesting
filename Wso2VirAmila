@@ -1,11 +1,8 @@
-test1
-
-
-
-test 2
-test 3
-4
-ff
-fasdf
-aaff
-f
+{
+"apiUrl":"https://api.github.com",
+"accessToken":"e503aa46fd6fa47e6864f5c778d1558a59177b69",
+"mediaType":"application/vnd.github+json",
+"owner":"wso2Virtusa",
+"repo":"wso2VirTesting",
+"number":"49"
+}
