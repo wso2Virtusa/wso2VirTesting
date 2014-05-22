@@ -1,8 +1,0 @@
-{
-"apiUrl":"https://api.github.com",
-"accessToken":"ed25f732c08905e6638ff0abd77f2ae6f4316701",
-"mediaType":"application/vnd.github.VERSION.html+json",
-"owner":"wso2connector",
-"repo":"Test",
-"number":"74"
-}
